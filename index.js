@@ -14,7 +14,7 @@ function nowServing(Line){
   }
 }
 
-function currentLine(line){
-  var = 0
-  if (line)
-}
+// function currentLine(line){
+//   var = 0
+//   if (line)
+// }
