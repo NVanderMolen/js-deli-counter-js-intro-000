@@ -22,5 +22,5 @@ var emptyArr = [];
     for (var i = 0; i<line.length; i++)
     emptyArr.push(`${[i+1]}. ${line[i]}`)
   }
-  return `The line is currently: ${emptyArr.join(" ")}`
+  return `The line is currently: ${emptyArr.join(", ")}`
 }
